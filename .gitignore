@@ -54,8 +54,5 @@ google-services.json
 .DS_Store
 Thumbs.db
 
-# Screenshots committed in repo (optional — remove if you want them tracked)
-S60810-*.png
-
 # WorkBuddy agent internal workspace data
 .workbuddy/
