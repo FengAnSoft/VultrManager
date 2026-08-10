@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Compose draws its own UI, the activity only needs a NoActionBar theme -->
+    <style name="Theme.VultrManager" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

@@ -1,0 +1,61 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Gradle files (keep wrapper jar/scripts, ignore caches)
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc.)
+local.properties
+
+# Log/OS Files
+*.log
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+# Keep the workspace.xml if you want shared run configs, otherwise ignore all:
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystore files (never commit signing keys)
+*.jks
+*.keystore
+
+# Google Services (if added later)
+google-services.json
+
+# Compose / NDK
+.ndk/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Screenshots committed in repo (optional — remove if you want them tracked)
+S60810-*.png
+
+# WorkBuddy agent internal workspace data
+.workbuddy/
